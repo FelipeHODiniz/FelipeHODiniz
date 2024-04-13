@@ -10,8 +10,8 @@ Bem-vindo ao meu espaço digital! Sou [Felipe Diniz], um apaixonado por Ciência
 
 ## 💼 Experiência e Projetos
 
-**Desenvolvedor Front-End | Empresa XPTO**  
-*Período: [Data de Início] - [Data de Término]*
+**Desenvolvedor Front-End | Projeto Acadêmico**  
+*Período: 15/02/2024 - [Em andamento]*
 
 Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
 
@@ -34,7 +34,7 @@ Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque
 ## 📚 Educação
 
 **Ciência da Computação | PUC Minas**  
-*Período: [Ano de Início] - Presente*
+*Período: [01-2024] - Presente*
 
 Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
 
