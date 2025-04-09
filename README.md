@@ -27,8 +27,6 @@
 
 ![snake](https://raw.githubusercontent.com/FelipeHODiniz/FelipeHODiniz/output/github-contribution-grid-snake.svg)
 
-
-
 ---
 
 ## 📫 Contato
