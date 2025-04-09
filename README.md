@@ -1,5 +1,8 @@
 # 👨‍💻 Felipe Henrique Oliveira Diniz
 
+![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeHODinizshow_icons=true&theme=tokyonight)
+
+
 🎓 Estudante de Ciência da Computação | 2º Período na PUC Minas  
 💡 Apaixonado por tecnologia, desenvolvimento web e aprendizado constante  
 🚀 Buscando oportunidades para crescer como desenvolvedor e contribuir com projetos reais
