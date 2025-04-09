@@ -1,68 +1,48 @@
-# Perfil GitHub - [FelipeHODiniz]
+# 👨‍💻 Felipe Henrique Oliveira Diniz
+
+🎓 Estudante de Ciência da Computação | 2º Período na PUC Minas  
+💡 Apaixonado por tecnologia, desenvolvimento web e aprendizado constante  
+🚀 Buscando oportunidades para crescer como desenvolvedor e contribuir com projetos reais
 
 ---
 
-## 👋 Olá, mundo!
+## 💼 Sobre mim
 
-Bem-vindo ao meu espaço digital! Sou [Felipe Diniz], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Sou um estudante de Ciência da Computação com interesse em desenvolvimento back-end, front-end e estrutura de dados. Estou sempre aprendendo novas tecnologias e aplicando esse conhecimento em projetos da faculdade e pessoais.
 
----
-
-## 💼 Experiência e Projetos
-
-**Desenvolvedor Front-End | Projeto Acadêmico**  
-*Período: 15/02/2024 - [Em andamento]*
-
-Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
-
-**Sistema de Controle de Estoque | Projeto Acadêmico**  
-*Período: [Data de Início] - [Data de Término]*
-
-Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque, aplicando conceitos essenciais de estruturas de dados e algoritmos. A experiência proporcionou uma compreensão mais profunda do desenvolvimento de software em nível de sistema.
+Atualmente estou desenvolvendo o **FitFlex**, um site voltado para auxiliar diabéticos com receitas e informações nutricionais — projeto interdisciplinar da faculdade.
 
 ---
 
-## 🚀 Habilidades
+## 🧠 Tecnologias que estou aprendendo
 
-- **Linguagens de Programação:** HTML, CSS, JavaScript, C
-- **Desenvolvimento Front-End:** React.js, Vue.js
-- **Banco de Dados:** MySQL, MongoDB
-- **Controle de Versão:** Git, GitHub
-
----
-
-## 📚 Educação
-
-**Ciência da Computação | PUC Minas**  
-*Período: [01-2024] - Presente*
-
-Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
+- 💻 **Linguagens:** C, C++, Java, HTML, CSS, JavaScript
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL
+- 🛠️ **Ferramentas e Tecnologias:** Git, GitHub, VS Code, Node.js (iniciante)
+- 🌐 **Desenvolvimento Web:** Fundamentos de front-end e back-end
 
 ---
 
-## 🌐 Redes Sociais
+## 📌 Projetos em destaque
 
-- [LinkedIn](https://www.linkedin.com/in/seunome)
-- [Twitter](https://twitter.com/seunome)
-
----
-
-## 💡 Interesses
-
-- Desenvolvimento Web
-- Algoritmos e Estruturas de Dados
-- Programação de Sistemas
+- [FitFlex](https://github.com/seu-usuario/FitFlex) – site para alimentação saudável voltado a diabéticos  
+- [Calculadora em C](https://github.com/seu-usuario/calculadora-c) – simples calculadora feita com lógica em C  
+- [Jogo da Forca](https://github.com/seu-usuario/jogo-da-forca) – versão em terminal do jogo da forca
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
-![Estatísticas do GitHub](URL_DA_IMAGEM)
+![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🤝 Let's Connect!
+## 📫 Como me encontrar
 
-Estou aberto a colaborações e oportunidades emocionantes! Se você está procurando um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para entrar em contato.
+- ✉️ Email: felipehenriqueodiniz@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- 🌐 Portfólio: em construção
 
-*Vamos construir algo incrível juntos!* 👨‍💻✨
+---
+
+### ⭐ Sempre aprendendo. Sempre evoluindo.
