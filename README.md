@@ -18,7 +18,7 @@ Atualmente estou desenvolvendo o **FitFlex**, um site voltado para auxiliar diab
 
 - 💻 **Linguagens:** C, C++, Java, HTML, CSS, JavaScript
 - 🗄️ **Banco de Dados:** MySQL, PostgreSQL
-- 🛠️ **Ferramentas e Tecnologias:** Git, GitHub, VS Code, Node.js (iniciante)
+- 🛠️ **Ferramentas e Tecnologias:** Git, GitHub, VS Code, ReactJS, Node.js (iniciante)
 - 🌐 **Desenvolvimento Web:** Fundamentos de front-end e back-end
 
 ---
@@ -40,7 +40,7 @@ Atualmente estou desenvolvendo o **FitFlex**, um site voltado para auxiliar diab
 ## 📫 Como me encontrar
 
 - ✉️ Email: felipehenriqueodiniz@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/felipe-diniz-115294300/)  
 - 🌐 Portfólio: em construção
 
 ---
